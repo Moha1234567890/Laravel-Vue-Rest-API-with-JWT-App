@@ -1,4 +1,14 @@
-# api
+
+
+# Simple laravel vue api 
+
+##Installation for laravel 
+
+refer to this [link](https://github.com/Moha1234567890/Laravel-App-for-Rest-Api) for the laravel app
+
+it's a simple app only only one package installed which is  jwt/tymon package 
+
+##Installation for vue 
 
 ## Project setup
 ```
